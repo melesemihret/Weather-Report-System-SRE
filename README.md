@@ -53,7 +53,15 @@ Test Goals:
         Step 6: Add Routes.
         Step 7: Add Controllers.
         Step 8: Add Requests.
- Then RUN PHP artisan serve
+  Then RUN Project:- 
+     Now you are ready. Run the following command to test.
+
+    php artisan serve
+
+    Then access it to your browser:
+
+     http://127.0.0.1:8000
+     
  ![image](https://user-images.githubusercontent.com/55538814/156813786-0cd08982-8a5f-46c6-9d3a-91177b2de6f3.png)
 
  
@@ -63,7 +71,6 @@ Test Goals:
  
  - Click on register with new account to get services. 
 
- 
  - Fill all fields
  
  ![image](https://user-images.githubusercontent.com/55538814/156815097-aa35a41d-ca53-459d-8215-331a96af68e3.png)
@@ -93,14 +100,22 @@ click on it To verify
 ![image](https://user-images.githubusercontent.com/55538814/156816720-7ae3360a-a4b5-46eb-bb86-3c2eaaf6ef22.png)
 
 Privilege Page for Admin
+
+        email: admin@gmail.com
+
+        password: admin@1234
+
+![image](https://user-images.githubusercontent.com/55538814/156817748-5e595102-f5db-45d3-9ebe-916d53d8e1b6.png)
+
   - createing Middleware 
   - Let's create our custom middleware. Run the following command:
-  -     php artisan make:middleware ISAdmin
-  -     And here is the custom code of our PermissionMiddlware class. Navigate to
-  -      App\Http\Middleware\IsAdmin.php
+  -     php artisan make:middleware ISAdmin  And here is the custom code of our PermissionMiddlware class. Navigate to
+  -     App\Http\Middleware\IsAdmin.php
  
-![image](https://user-images.githubusercontent.com/55538814/156817748-5e595102-f5db-45d3-9ebe-916d53d8e1b6.png)
  ![image](https://user-images.githubusercontent.com/55538814/156820563-9bc6876e-8b6a-4d7e-9774-ee6145e964aa.png)
+ 
+-    App\Http\Controllers\LoginController;
+
 
 ![image](https://user-images.githubusercontent.com/55538814/156819247-972273ea-e260-4fd0-890b-5708b03ae31c.png)
 
@@ -115,7 +130,6 @@ And go to Database(**weather-report**) to give [**is_admin**] ->  value =  1 use
 [image](https://user-images.githubusercontent.com/55538814/156821621-3063b746-4a5b-4d78-93ef-01dc3e735e17.png)
 
 admin can also open link view weather report!
-
 
 
 ![image](https://user-images.githubusercontent.com/55538814/156821945-1e66942b-f340-4051-b91f-f0ed14e472e0.png)

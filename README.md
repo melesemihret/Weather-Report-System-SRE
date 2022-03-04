@@ -99,13 +99,8 @@ Privilege Page for Admin
   -     And here is the custom code of our PermissionMiddlware class. Navigate to
   -      App\Http\Middleware\IsAdmin.php
  
-  ![image](https://user-images.githubusercontent.com/55538814/156820563-9bc6876e-8b6a-4d7e-9774-ee6145e964aa.png)
-
-
-![image](https://user-images.githubusercontent.com/55538814/156817909-e6df25ee-656a-4a5f-a8f9-b3a5e093e515.png)
-
-
 ![image](https://user-images.githubusercontent.com/55538814/156817748-5e595102-f5db-45d3-9ebe-916d53d8e1b6.png)
+ ![image](https://user-images.githubusercontent.com/55538814/156820563-9bc6876e-8b6a-4d7e-9774-ee6145e964aa.png)
 
 ![image](https://user-images.githubusercontent.com/55538814/156819247-972273ea-e260-4fd0-890b-5708b03ae31c.png)
 
@@ -117,10 +112,14 @@ And go to Database(**weather-report**) to give [**is_admin**] ->  value =  1 use
 **  All Admin pages**
   
 ![image](https://user-images.githubusercontent.com/55538814/156821270-a120d88f-afe0-4de3-ad09-206645be3bd5.png)
+[image](https://user-images.githubusercontent.com/55538814/156821621-3063b746-4a5b-4d78-93ef-01dc3e735e17.png)
 
 admin can also open link view weather report!
 
-[image](https://user-images.githubusercontent.com/55538814/156821621-3063b746-4a5b-4d78-93ef-01dc3e735e17.png)
+
+
+![image](https://user-images.githubusercontent.com/55538814/156821945-1e66942b-f340-4051-b91f-f0ed14e472e0.png)
+
 
 
 

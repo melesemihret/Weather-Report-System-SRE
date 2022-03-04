@@ -45,14 +45,43 @@ Test Goals:
  ![image](https://user-images.githubusercontent.com/55538814/156813786-0cd08982-8a5f-46c6-9d3a-91177b2de6f3.png)
 
  
- //// Home page
+ //// Home page/ Login Page Default
+ 
+ ![image](https://user-images.githubusercontent.com/55538814/156814298-29c69afb-b3b0-423b-a149-8fa44487c32f.png)
+ 
+ - Click on register with new account to get services. 
+
  
  ![image](https://user-images.githubusercontent.com/55538814/156810164-5f585fe4-def1-4a12-8896-aff1817e9d68.png)
+ - Fill all fields
+ ![image](https://user-images.githubusercontent.com/55538814/156815097-aa35a41d-ca53-459d-8215-331a96af68e3.png)
+ 
+ - emaily varifications for new register users.
+ 
+ ![image](https://user-images.githubusercontent.com/55538814/156815351-642a02e6-7953-42de-af0c-b59048d73faa.png)
 
-/// first register
-![image](https://user-images.githubusercontent.com/55538814/156810370-a4bd6983-488f-4d51-b63e-1419bdaed2dc.png)
+  please use mailtrap account to varify incoming email varifications
+   Account: melesemihretw@gmail.com
+   password: Admin@1234
+   
+   ![image](https://user-images.githubusercontent.com/55538814/156815818-83332f68-b1fa-4ef9-b84e-777b6ec17a38.png)
 
-// 
+- Then check from inbox(Weather-User-InBox) and varify it
+
+![image](https://user-images.githubusercontent.com/55538814/156816116-194c61e4-62bb-4d34-b85f-2a3c1b1ad4f9.png)
+
+click on it To verify
+![image](https://user-images.githubusercontent.com/55538814/156816372-27ddab76-ebfc-49e4-8615-1a261844766b.png)
+
+- After verify your email address
+-
+![image](https://user-images.githubusercontent.com/55538814/156816568-c903f4ce-2c57-4f92-9be7-78b4f665c27b.png)
+![image](https://user-images.githubusercontent.com/55538814/156816720-7ae3360a-a4b5-46eb-bb86-3c2eaaf6ef22.png)
+
+
+
+
+
 
  
  

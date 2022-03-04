@@ -52,41 +52,7 @@ class LoginController extends Controller
             ]);
                 $email  =   $request->email;
                 $password  =   $request->password;
-            
-                // remember login
-                /* $remember   =   $request->has('$remember')? true:false;
-                if(auth()->attempt(['email'=>$email,'password'=>$password],$remember)){
-                    $user= auth()->user();
-                    return dd($user);
-                }
-                else{
-                    return view('fail,Wrong UserName or Password !','Error');
-                    
-                } */
-                //remember login
-               /*  $credentials = $request->getCredentials();
-
-                if(!Auth::validate($credentials)):
-                    return redirect()->to('login')
-                        ->withErrors(trans('auth.failed'));
-                endif;
-        
-                $user = Auth::getProvider()->retrieveByCredentials($credentials);
-        
-                Auth::login($user, $request->get('remember'));
-        
-                if($request->get('remember')):
-                    $this->setRememberMeExpiration($user);
-                endif;
-        
-                return $this->authenticated($request, $user); */
-
-                
-                // $this->validate($request, [
-                //     'email' => 'required|email',
-                //     'password' => 'required',
-                // ]);
-            
+    
             
                 $remember = $request->has('remember') ? true : false; 
             

@@ -38,7 +38,9 @@ Test Goals:
             **To start Project **   
             
 =====================================================
+
      - start XAMPP Server
+     
   
  ![image](https://user-images.githubusercontent.com/55538814/156812797-801ae3ba-a5be-43c4-aecc-8df92a8261fa.png)
 
@@ -136,10 +138,24 @@ admin can also open link view weather report!
 
 ![image](https://user-images.githubusercontent.com/55538814/156821945-1e66942b-f340-4051-b91f-f0ed14e472e0.png)
 
+All Yours Can rest Their passwords: Click on Forgot Passwords
+
+![image](https://user-images.githubusercontent.com/55538814/156823780-751ee3a9-de53-43ec-99aa-b49cbc4730db.png)
+
+![image](https://user-images.githubusercontent.com/55538814/156823912-1f89c685-1bf0-4c68-bac1-55a904359a77.png)
+
+- Check from mailtrap:
+
+![image](https://user-images.githubusercontent.com/55538814/156824126-f000b985-1dc7-4cbf-a9dd-545dae4a698f.png)
+
+![image](https://user-images.githubusercontent.com/55538814/156824212-508cb4e4-4ca5-4266-a7f5-7c264a50985d.png)
+
+
+![image](https://user-images.githubusercontent.com/55538814/156824294-f66df9a8-0305-469f-a143-1176b662d47c.png)
 
 
 
-Don't forget that your credential is for Admin:
+Don't forget credential is for Admin:
 
 email: admin@gmail.com
 

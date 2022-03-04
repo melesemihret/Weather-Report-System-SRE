@@ -1,10 +1,15 @@
-#Test Case: Weather report system
+Test Case: Weather report system
 
 Requirements:
+
 •	language: PHP
+
 •	Framework: Laravel 8.+
+
 •	Allowed Database: MySQL
+
 Use Case
+
 Create simple page that displays user name, last name and the weather of the user’s current location.
 •	There must be a registration page, where the user can setup his/her credentials
 •	Weather information should be pulled through API to any free weather application available (example: https://openweathermap.org/)

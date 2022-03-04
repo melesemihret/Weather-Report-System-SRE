@@ -33,12 +33,20 @@ Test Goals:
 
 
 
-=============================================================================================================
-To start Project 
- ![image](https://user-images.githubusercontent.com/55538814/156809846-acc95cf1-4633-4c78-8c35-2af7f9281d61.png)
+=====================================================
+            **To start Project **   
+=====================================================
+     - start XAMPP Server
+  
+ ![image](https://user-images.githubusercontent.com/55538814/156812797-801ae3ba-a5be-43c4-aecc-8df92a8261fa.png)
+
  
+ // Open git on Project folder(weather-report-app), Then RUN PHP artisan serve
+ ![image](https://user-images.githubusercontent.com/55538814/156813786-0cd08982-8a5f-46c6-9d3a-91177b2de6f3.png)
+
  
- //// Login Page
+ //// Home page
+ 
  ![image](https://user-images.githubusercontent.com/55538814/156810164-5f585fe4-def1-4a12-8896-aff1817e9d68.png)
 
 /// first register
